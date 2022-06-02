@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @qinmolei
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 qinmoelei/qinmoelei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
